@@ -1,6 +1,5 @@
 /* Your code goes here */
 var customerName = 'bob'
-let  leastFavoriteCustomer = ''
 
 function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase()
