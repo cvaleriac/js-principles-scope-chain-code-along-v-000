@@ -1,6 +1,6 @@
 /* Your code goes here */
 const customerName = "bob"
 
-function() => {
+function customerName() => {
   return customerName
 }
