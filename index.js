@@ -19,7 +19,3 @@ function overWriteBestCustomer(newFavorite){
   bestCustomer = 'maybe bob'
 }
 
-function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
-}
