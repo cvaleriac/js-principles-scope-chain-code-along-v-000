@@ -18,4 +18,3 @@ function setBestCustomer(){
 function overWriteBestCustomer(newFavorite){
   bestCustomer = 'maybe bob'
 }
-
