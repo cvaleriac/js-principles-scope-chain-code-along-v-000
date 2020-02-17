@@ -1,5 +1,5 @@
 /* Your code goes here */
-let customerName = 'bob'
+var customerName = 'bob'
 const leastFavoriteCustomer = 'ginger'
 
 function upperCaseCustomerName() {
